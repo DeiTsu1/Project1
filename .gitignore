@@ -1,0 +1,23 @@
+# Виртуальное окружение (uv / venv)
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+*.swp
+*.swo
+
+# Локальные логи, временные файлы
+logs/
+tmp/
+temp/
+
+# Большие файлы, бинарники
+*.exe
+*.dll
+*.so
+
+# Файлы ОС
+.DS_Store
+Thumbs.db
